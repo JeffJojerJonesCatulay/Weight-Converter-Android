@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Medical Calculator</string>
+    <string name="kilo">Kilogram</string>
+    <string name="lb">Pounds</string>
+    <string name="before">To</string>
+    <string name="after">Is</string>
+</resources>
